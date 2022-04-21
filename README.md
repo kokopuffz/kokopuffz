@@ -3,7 +3,7 @@ Hi 👋 My name is Grace or ChanHee
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [chanheeya@gmail.com](mailto:chanheeya@gmail.com)
-* 🧠  I'm amd currently learning ruby/rails/testing
+* 🧠  I'm currently learning ruby/rails/testing
 * 🤝  I'm open to collaborating on anything esp if it is ruby/rails.
 
 i like cats. :3
