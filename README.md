@@ -1,3 +1,6 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
+
 Hi 👋 My name is Grace or ChanHee 
 ====================================
 
