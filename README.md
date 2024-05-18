@@ -1,16 +1,3 @@
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
-
-
-Hi 👋 My name is Grace or ChanHee 
-====================================
-
-* 🌍  I'm based in Texas
-* ✉️  You can contact me at [chanheeya@gmail.com](mailto:chanheeya@gmail.com)
-* 🧠  I'm currently learning ruby/rails/testing
-* 🤝  I'm open to collaborating on anything esp if it is ruby/rails.
-
-i like cats. :3
-
 If you are new to coding and would like to learn coding shortcuts... please enjoy this typing game I made!
 Be sure to select PC on top, if you plan to code on PC.
 
